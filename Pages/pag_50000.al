@@ -6,6 +6,7 @@ page 50100 "BAL Recource Setup"
     ApplicationArea = All;
     UsageCategory = Administration;
     SourceTable = "BAL Resource Setup";
+    
 
     layout
     {
