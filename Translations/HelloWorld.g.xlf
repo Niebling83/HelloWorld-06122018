@@ -3,6 +3,46 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="HelloWorld">
     <body>
       <group id="body">
+        <trans-unit id="Table 3191412830 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Resource Setup - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3191412830 - Field 1581636154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Resource Setup - Field No. Series2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3191412830 - Field 1801868759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Resource Setup - Field No. Series Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3994924014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Seminar Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BAL Recource Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3994924014 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BAL Recource Setup - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3994924014 - Control 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BAL Recource Setup - Control No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3994924014 - Control 1581636154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Serie II</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BAL Recource Setup - Control No. Series2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3994924014 - Control 1801868759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Serie Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BAL Recource Setup - Control No. Series Posted - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2142008928 - Control 1010706519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Resource Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
