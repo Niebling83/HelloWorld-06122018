@@ -1,7 +1,7 @@
 {
   "id": "ab1176a8-b948-4ec3-a7ca-ad0b51c2ffc6",
   "name": "HelloWorld",
-  "publisher": "Default publisher",
+  "publisher": "balance.as",
   "brief": "Hello World",
   "description": "Hello World",
   "version": "1.0.0.0",
@@ -9,7 +9,7 @@
   "EULA": "",
   "help": "",
   "url": "http://www.vesterris.dk",
-  "logo": "./logo.png",
+  "logo": "./images/logo.png",
   "capabilities": [],
   "dependencies": [],
   "screenshots": [],
