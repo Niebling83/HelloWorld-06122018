@@ -1,0 +1,26 @@
+{
+  "id": "ab1176a8-b948-4ec3-a7ca-ad0b51c2ffc6",
+  "name": "HelloWorld",
+  "publisher": "Default publisher",
+  "brief": "Hello World",
+  "description": "Hello World",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.vesterris.dk",
+  "logo": "./logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.1",
+  "showMyCode": true,
+  "features": ["TranslationFile"],
+  "target": "Internal"
+}
