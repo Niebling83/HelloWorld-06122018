@@ -1,4 +1,4 @@
-pageextension 50101 "BAL Resource Ext" extends "Resource Card"
+pageextension 50100 "BAL Resource Ext" extends "Resource Card"
 {
     layout
     {
@@ -6,11 +6,11 @@ pageextension 50101 "BAL Resource Ext" extends "Resource Card"
         {
             field("BAL Resource Type"; "BAL Resource Type")
             {
-
+                Caption = 'Resource Type';
             }
             field("BAL Quantity Per Day"; "BAL Quantity Per Day")
             {
-
+                Caption = 'Quantity Per Day';
             }
         }
         addafter("Personal Data")
@@ -21,11 +21,10 @@ pageextension 50101 "BAL Resource Ext" extends "Resource Card"
                 Caption = 'Rooms';
                 field("BAL Maximiun Party Pants"; "BAL Maximiun Party Pants")
                 {
-
+                    Caption = 'Maximiun Party Pants';
                 }
             }
         }
-
     }
     trigger OnAfterGetRecord()
     begin
