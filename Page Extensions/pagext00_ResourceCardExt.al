@@ -12,8 +12,13 @@ pageextension 50101 "BAL Resource Ext" extends "Resource Card"
             {
 
             }
-            group(Rooms)
+        }
+        addafter("Personal Data")
+        {
+            group("Rooms")
             {
+                Visible = ShowRoom;
+                Caption = 'Rooms';
                 field("BAL Maximiun Party Pants"; "BAL Maximiun Party Pants")
                 {
 
