@@ -3,6 +3,11 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="HelloWorld">
     <body>
       <group id="body">
+        <trans-unit id="Table 3191412830 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Resource Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3191412830 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>No. Series</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -18,8 +23,118 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BAL Resource Setup - Field No. Series Posted - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 1462212739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Seminar Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 3811274366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Participants</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Minimum Participants - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 3200663424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum Participants</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Maximum Participants - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 411528779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Search Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 15701604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>bLOCKED</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field bLOCKED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 2393253273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Modified</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Last Date Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 2417183982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Seminar Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 2139693550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Prod. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field Gen. Prod. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 236064653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Prod. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field VAT Prod. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223978396 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Comment Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 3808951907 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field Table Name - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 2480638018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field Document Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796264679 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Seminar Comment Line - Field Comment - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3994924014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Resource Seminar Setup</source>
+          <source>Seminar Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BAL Recource Setup - Property Caption</note>
         </trans-unit>
@@ -43,6 +158,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BAL Recource Setup - Control No. Series Posted - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3718962993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Seminar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1173659623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Seminar List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2391461621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Comment Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Seminar Comment Sheet - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2142008928 - Control 1010706519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Resource Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -63,30 +193,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Resource Ext - Control BAL Maximiun Party Pants - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 165151090 - Change 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="TableExtension 3880005808 - Change 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
           <source>Instructer,Room</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSL Recource Ext - Change Type - Property OptionCaption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Recource Ext - Change Type - Property OptionCaption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 165151090 - Field 1010706519 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="TableExtension 3880005808 - Field 1010706519 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
           <source>Internal,External</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSL Recource Ext - Field BAL Resource Type - Property OptionCaption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Recource Ext - Field BAL Resource Type - Property OptionCaption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 165151090 - Field 1010706519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="TableExtension 3880005808 - Field 1010706519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>BAL Resource Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSL Recource Ext - Field BAL Resource Type - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Recource Ext - Field BAL Resource Type - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 165151090 - Field 2919000701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="TableExtension 3880005808 - Field 2919000701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Maximiun Party Pants</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSL Recource Ext - Field BAL Maximiun Party Pants - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Recource Ext - Field BAL Maximiun Party Pants - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 165151090 - Field 751878977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="TableExtension 3880005808 - Field 751878977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Quantity Per Day</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSL Recource Ext - Field BAL Quantity Per Day - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Recource Ext - Field BAL Quantity Per Day - Property Caption</note>
         </trans-unit>
       </group>
     </body>

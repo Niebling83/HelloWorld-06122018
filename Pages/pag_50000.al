@@ -1,8 +1,10 @@
 page 50100 "BAL Recource Setup"
 {
     Editable = true;
-    Caption = 'Resource Seminar Setup';
     PageType = Card;
+    Caption='Seminar Setup';
+    InsertAllowed = false;
+    DeleteAllowed = false;
     ApplicationArea = All;
     UsageCategory = Administration;
     SourceTable = "BAL Resource Setup";
@@ -33,23 +35,11 @@ page 50100 "BAL Recource Setup"
             }
         }
     }
-
-    actions
-    {
-        area(Processing)
-        {
-            action(ActionName)
-            {
-                ApplicationArea = All;
-
-                trigger OnAction()
-                begin
-
-                end;
-            }
-        }
-    }
-
-    var
-        myInt: Integer;
+    trigger OnOpenPage();
+        begin
+            if not get then begin
+                init;
+                insert;
+            end;
+        end;
 }

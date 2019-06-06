@@ -4,14 +4,15 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Your own server",
+            "name": "BC140",
             "server": "http://localhost",
-            "serverInstance": "BC130",
+            "serverInstance": "BC140",
             "authentication": "Windows",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": true,
-            "schemaUpdateMode": "Synchronize"
+            "schemaUpdateMode": "ForceSync"
+    
         }
     ]
 }

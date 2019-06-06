@@ -1,4 +1,4 @@
-tableextension 50100 "BSL Recource Ext" extends Resource
+tableextension 50100 "BAL Recource Ext" extends Resource
 {
     fields
     {
