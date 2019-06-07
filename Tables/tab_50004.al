@@ -6,8 +6,8 @@ table 50104 "BAL Seminar Comment Line"
         field(10; "Table Name"; Option)
         {
             Caption = 'Table Name';
-            OptionMembers = Seminar;
-            OptionCaption = 'Seminar';
+            OptionMembers = Seminar,"Seminar Registration","Posted Seminar Registration";
+            OptionCaption = 'Seminar,Seminar Registration,Posted Seminar Registration';
         }
         field(20; "Document Line No."; Integer)
         {
