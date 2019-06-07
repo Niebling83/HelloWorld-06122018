@@ -3,6 +3,7 @@ page 50106 "Seminar Comment Sheet"
     Caption = 'Seminar Comment Sheet';
     PageType = List;
     SourceTable = "BAL Seminar Comment Line";
+    AutoSplitKey = true;
     layout
     {
         area(content)
@@ -22,4 +23,8 @@ page 50106 "Seminar Comment Sheet"
             }
         }
     }
+    trigger OnNewRecord(BelowxRec: Boolean)
+    begin
+        SetupNewLine;
+    end;
 }

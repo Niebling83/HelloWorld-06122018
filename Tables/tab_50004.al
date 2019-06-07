@@ -17,7 +17,7 @@ table 50104 "BAL Seminar Comment Line"
         {
             Caption = 'No.';
             TableRelation = if ("Table Name" = CONST (Seminar))
-    "BAL Seminar";
+            "BAL Seminar";
         }
         field(40; "Line No."; Integer)
         {
@@ -36,6 +36,7 @@ table 50104 "BAL Seminar Comment Line"
             Caption = 'Comment';
         }
     }
+
     keys
     {
         key(PK; "Table Name", "Document Line No.", "No.", "Line No.")
@@ -43,4 +44,18 @@ table 50104 "BAL Seminar Comment Line"
             Clustered = true;
         }
     }
+    procedure SetupNewLine()
+    var
+    SeminarCommentLine: Record "BAL Seminar Comment Line";
+    begin
+        SeminarCommentLine.SetRange("Table Name","Table Name");
+        SeminarCommentLine.SetRange("No.","No.");
+        SeminarCommentLine.SetRange("Document Line No.",
+        "Document Line No.");
+        SeminarCommentLine.SetRange("Date",WorkDate);
+        if SeminarCommentLine.IsEmpty then
+            Date:=WorkDate;
+    end;
+    
+    
 }

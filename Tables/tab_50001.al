@@ -43,7 +43,7 @@ table 50101 "BAL Seminar"
         {
 
         }
-        field(70; bLOCKED; Boolean)
+        field(70; Blocked; Boolean)
         {
 
         }

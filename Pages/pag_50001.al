@@ -41,7 +41,7 @@ page 50101 "Seminar"
                 {
 
                 }
-                Field(bLOCKED;bLOCKED)
+                Field(Blockes;Blocked)
                 {
 
                 }
